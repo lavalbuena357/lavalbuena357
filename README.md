@@ -7,3 +7,59 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lavalbuena357)
 
 ![Waka Readme](https://github.com/lavalbuena357/lavalbuena357/workflows/Waka%20Readme/badge.svg)
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Node-informational?style=flat&logo=node&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Express-informational?style=flat&logo=express&logoColor=white&color=blue)
+
+![lavalbuena357's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavalbuena357&count_private=true&show_icons=true&theme=slateorange)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavalbuena357&langs_count=8&theme=slateorange)](https://github.com/lavalbuena357/github-readme-stats)
+
+👇 Connect with me.
+
+```bash
+cuervo357@gmail.com
++57 3206172165
+```
+
+</br>
+<h3>A little more about me...</h3>
+
+```javascript
+const albertvr = {
+    code: ["Javascript", "Python"],
+    askMeAbout: ["web dev", "app dev", "design"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        frontEnd: {
+            js: ["React", "Redux"],
+            css: ["module css", "bootstrap"]
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        CMS: ["Wordpress", "Prestashop"],
+        devOps: ["AWS"],
+        databases: ["Postgres", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: ["Single page applications"],
+    currentFocus: "web development"
+};
+```
+</br>
+<em><b>I love connecting with different people and cultures so if you want to say hi, I'll be happy to meet you!</b></em> 😊
+</br>
+
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
