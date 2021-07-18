@@ -60,6 +60,10 @@ const albertvr = {
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+CSS          1 hr 51 mins    █████████░░░░░░░░░░░░░░░░   35.66 % 
+JavaScript   1 hr 14 mins    ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+JSX          1 hr 1 min      █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Markdown     30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+JSON         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 ```
 <!--END_SECTION:waka-->
