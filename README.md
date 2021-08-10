@@ -60,10 +60,8 @@ const albertvr = {
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 35 mins   ██████████████▒░░░░░░░░░░   56.71 % 
-JSX          1 hr 3 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-CSS          51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-JSON         32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Markdown     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+JavaScript   2 hrs 32 mins   ███████████████████████▓░   94.10 % 
+JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+TypeScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 <!--END_SECTION:waka-->
