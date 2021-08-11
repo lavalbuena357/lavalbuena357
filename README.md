@@ -60,8 +60,6 @@ const albertvr = {
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 32 mins   ███████████████████████▓░   94.10 % 
-JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-TypeScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
